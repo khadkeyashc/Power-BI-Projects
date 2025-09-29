@@ -75,5 +75,3 @@ Contributions are welcome! Feel free to raise issues or suggest improvements.
 This project is shared for educational and learning purposes only.
 
 
-👨‍💻 Created By
-This Power BI project collection was developed by Yash Khadke, an aspiring Full Stack Developer and Data Enthusiast, with a keen interest in building real-world analytics solutions that transform data into actionable insights.
